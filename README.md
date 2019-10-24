@@ -3,7 +3,7 @@
 # Predicting Hospital Readmissions with Machine Learning
 
 ## Project Description
-Annual hospital data of a country can give us some really big clues as to what is happening all around and can provide us with important points to which we can develop a new strategy around it (e.g. build a concrete strategy to avoid diseases or any specific health threats).
+Annual hospital data of a country can give us some really big clues as to what is happening all around and can provide us with important points to which we can develop a new strategy around it (e.g. build a concrete strategy to avoid disease outbreak or any specific health threats).
 
 For instance, it is important to know if a patient will be readmitted in hospital. The reason is that you can change the treatment, in order to avoid a readmission, and therefore costs.
 Hospital readmission rates for certain conditions are now considered an indicator of hospital quality, and also affect the cost of care adversely.
